@@ -1,0 +1,19 @@
+{
+  "name": "dsi-encrypt-password",
+  "version": "0.0.1",
+  "description": "Encrypt text password",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "G.Doud",
+  "license": "MIT",
+  "dependencies": {
+    "js-sha256": "^0.9.0"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "encrypt",
+    "password"
+  ]
+}

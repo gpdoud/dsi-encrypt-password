@@ -1,0 +1,11 @@
+{
+  "name": "dsi-testnpm",
+  "version": "1.0.4",
+  "description": "Test npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
